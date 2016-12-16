@@ -3,10 +3,10 @@ WS-Discovery in Python
 This is WS-Discovery implementation for Python2 and Python3 again.
 It allows to discover services and to be discovered.
 
-![GitHub issues](https://img.shields.io/github/issues/Yadro-Intra/ssdp.svg)
-![GitHub forks](https://img.shields.io/github/forks/Yadro-Intra/ssdp.svg)
-![GitHub stars](https://img.shields.io/github/stars/Yadro-Intra/ssdp.svg)
-![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)
+![GitHub issues](https://img.shields.io/github/issues/Yadro-Intra/python-ws-discovery.svg)
+![GitHub forks](https://img.shields.io/github/forks/Yadro-Intra/python-ws-discovery.svg)
+![GitHub stars](https://img.shields.io/github/stars/Yadro-Intra/python-ws-discovery.svg)
+![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
 
 Authors and maintaining
 -----------------------
